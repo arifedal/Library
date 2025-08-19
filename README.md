@@ -1,3 +1,6 @@
+
+<img width="1085" height="1025" alt="sample" src="https://github.com/user-attachments/assets/4d7e58fd-71b2-439f-a31e-14bb3c3453c6" />
+
 # 📚 Library Management System
 
 A library management system built with Python, featuring Object-Oriented Programming principles, external API integration, and a modern web interface powered by FastAPI.
